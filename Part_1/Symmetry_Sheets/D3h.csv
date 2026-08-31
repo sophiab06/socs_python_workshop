@@ -1,0 +1,7 @@
+Groups,E,2C3,3C2,sigma_h,2S3,3sigma_v
+A_1dash,1,1,1,1,1,1
+A_2dash,1,1,-1,1,1,-1
+E_dash,2,-1,0,2,-1,0
+A_1doubledash,1,1,1,-1,-1,-1
+A_2doubledash,1,1,-1,-1,-1,1
+E_doubledash,2,-1,0,-2,1,0
